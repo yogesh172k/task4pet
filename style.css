@@ -1,0 +1,140 @@
+.ruban{
+    background-color: lightsalmon;
+    height: 490px;
+    width: 600px;
+    
+}
+.petcare{
+    margin-left: 30px;
+    padding: 5px;
+    
+}
+
+
+.foot{
+    margin-left: 300px;
+    margin-top: -150px;
+    padding: 5px;
+}
+.seven{
+    margin-top: 25px;
+    
+}
+.six {
+    margin-top: -60px;
+    
+}
+.title1{
+    margin-left: 30px;
+
+}
+.secondbox{
+    padding: 15px;
+    margin-left: -14px;
+}
+.eight{
+    margin-top: 30px;
+}
+.eight label{
+    margin-left: px;
+}
+.eight input{
+    margin-left: -2px;
+}
+
+.five{
+  margin-top: 25px;
+    
+    
+}
+
+.five label{
+    padding: 10px;
+
+    
+    
+}
+.five input{
+    cursor: pointer;
+
+}
+.eight input{
+    cursor: pointer;
+}
+.gender input{
+    cursor: pointer;
+}
+
+form input{
+    padding: 5px;
+    border-radius: 10px;
+    
+    
+}
+
+.btn1{
+    margin-top: 24px;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100px;
+    border: 1px solid;
+    font-style: italic;
+}
+.btn1:hover{
+    background-color: brown;
+    color: white;
+    transition: 2s;
+}
+
+.btn2{
+    margin-top: 15px;
+    margin-left: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100px;
+    border: 1px solid;
+    font-style: italic;
+}
+.btn2:hover{
+    background-color: brown;
+    color: white;
+    transition: 2s;
+}
+.dog{
+    display: flex;
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    box-shadow: 5px 10px 8px 10px #888888;
+    transition: width 2s;
+}
+.thirdbox{
+    margin-top: 20px;
+}
+.secondbox{
+    margin-top: 10px;
+}
+body{
+    background-color:rgba(136, 65, 65, 0.548);
+}
+
+.fa-camera-retro{
+    margin-left: 10px;
+   padding: 5px;
+}
+form label{
+    font-size: 17px;
+}
+.dog:hover{
+    width: 980px;
+    height: 500px;
+    
+}
+.bts{
+    background-color: whitesmoke;
+    height: 83px;
+}
+.dog{
+    position: fixed;
+}
